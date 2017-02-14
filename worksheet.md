@@ -11,6 +11,8 @@ One powerful feature of the Raspberry Pi is the row of GPIO pins along the top e
 
 The GPIO pins allow the Raspberry Pi to control and monitor the outside world by being connected to electronic circuits. The Pi is able to control LEDs, turning them on or off, run motors, and many other things. It's also able to detect whether a switch has been pressed, the temperature, and light. We refer to this as physical computing.
 
+Les entrées GPIO permettent au Raspberry Pi de contrôler et d'être connecté au monde extérieur via le circuit électronique.
+
 There are 40 pins on the Raspberry Pi (26 pins on early models), and they provide various different functions.
 
 If you have a RasPiO pin label, it can help to identify what each pin is used for. Make sure your pin label is placed with the keyring hole facing the USB ports, pointed outwards.
